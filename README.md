@@ -48,7 +48,7 @@ Random Forest Regressor
 Gradient Boosting Regressor
 Usage
 
-To run the project, execute the Jupyter Notebook file boston_housing_prices_prediction.ipynb in a Jupyter environment. Make sure to install the required libraries mentioned in the requirements.txt file.
+To run the project, execute the Jupyter Notebook file boston_housing_prices_prediction.ipynb in a Jupyter environment. Make sure to install the required libraries.
 
 License
 
